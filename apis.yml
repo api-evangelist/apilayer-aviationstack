@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://aviationstack.com/
 common:
+  - type: DomainSecurity
+    url: security/apilayer-aviationstack-domain-security.yml
   - type: Website
     url: https://aviationstack.com/
   - type: PublicAPIsListing
