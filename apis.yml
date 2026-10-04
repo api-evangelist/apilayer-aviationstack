@@ -39,7 +39,6 @@ apis:
   - name: apilayer aviationstack
     description: "Real-time Flight Status & Global Aviation Data API"
     humanURL: https://aviationstack.com/
-    baseURL: https://aviationstack.com/
     tags:
       - Transportation
     properties:
